@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @canyanol650 a full stack developer
 - 👀 I’m interested in .net,angular,docker
 - 🌱 I’m currently learning python
-- 📫 How to reach me ...
+- 📫 canyanol@qq.com
 
 <!---
 canyanol650/canyanol650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
