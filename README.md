@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canyanol650 a full stack developer
-- 👀 I’m interested in .net,angular,vue3,docker
-- 🌱 I’m currently learning java
+- 👀 I’m interested in .net,vue3,docker
+- 🌱 I’m currently learning micro service
 - 📫 canyanol@qq.com
 
 <!---
